@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱Hi everyone! I'm Sameera I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON,<br>JAVA AND C++<br>I'm also trying out MATLAB!<br>📍Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu.
+🌱Hi! I'm Sameera I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON,<br>JAVA AND C++<br>I'm also trying out MATLAB!<br>📍Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu.
 
 
 ## 🌐 Socials:
